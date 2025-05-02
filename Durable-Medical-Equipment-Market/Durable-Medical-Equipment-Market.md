@@ -7,8 +7,8 @@
 <div class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 whitespace-normal break-words text-start [.text-message+&amp;]:mt-5" dir="auto" data-message-author-role="assistant" data-message-id="2e768005-d576-47fd-bbe9-fe4d1b142fd2" data-message-model-slug="gpt-4o">
 <div class="flex w-full flex-col gap-1 empty:hidden first:pt-[3px]">
 <div class="markdown prose w-full break-words dark:prose-invert light">
-<h1 data-start="0" data-end="323">Japan Human Centric Lighting (HCL) Market Growth &amp; Trend Report, 2025 [Latest]</h1>
-<h3><strong><u>Market Overview 2022-2028:</u></strong></h3>
+<h1 data-start="0" data-end="323">Japan Durable Medical Equipment Market Growth &amp; Trend Report, 2025 [Latest]</h1>
+<h5><strong><u>Market Overview 2022-2028:</u></strong></h5>
 <p>Japan Durable Medical Equipment Market Size, Share &amp; Trends Analysis Report By Type (Medical Furniture, Monitoring and Therapeutic Devices, Personal Mobility Devices, Bathroom Safety Devices), By Application (Nursing Homes, Home Healthcare, Hospitals, Others), COVID-19 Impact Analysis, Regional Outlook, Growth Potential, Price Trends, Competitive Market Share &amp; Forecast, 2022 - 2028</p>
 <p>Global Durable Medical Equipment Market size was valued at&nbsp;<strong>USD 212.23 Billion in 2021</strong>&nbsp;and is projected to reach&nbsp;<strong>USD 325.48 Billion by 2028</strong>, growing at a CAGR of&nbsp;<strong>7.52%</strong>&nbsp;from 2021 to 2028 according to a new report by Intellectual Market Insights Research.</p>
 <p><em><span style="text-decoration: underline;">🔗𝐆𝐞𝐭 𝐒𝐚𝐦𝐩𝐥𝐞 𝐂𝐨𝐩𝐲 𝐨𝐟 𝐓𝐡𝐢𝐬 𝐏𝐫𝐞𝐦𝐢𝐮𝐦 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐑𝐞𝐩𝐨𝐫𝐭:&nbsp;<a href="https://www.intellectualmarketinsights.com/download-sample/IMI-000353">https://www.intellectualmarketinsights.com/download-sample/IMI-000353</a></span></em></p>
